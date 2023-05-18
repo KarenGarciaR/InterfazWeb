@@ -6,7 +6,7 @@
 * [Qué construí?](https://github.com/KarenGarciaR/KarenGarciaR.github.io#qu%C3%A9-contru%C3%AD)
 * [Objetivo del proyecto](https://github.com/KarenGarciaR/KarenGarciaR.github.io#objetivo-del-proyecto)
 * [¡Link al Demo!](https://github.com/KarenGarciaR/KarenGarciaR.github.io#link-al-demo)
-* [Integrantes]
+* [Integrantes](https://github.com/KarenGarciaR/InterfazWeb/blob/main/README.md#integrantes%EF%B8%8F)
 
 ***
 
