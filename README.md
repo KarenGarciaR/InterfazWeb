@@ -6,6 +6,7 @@
 * [Qué construí?](https://github.com/KarenGarciaR/KarenGarciaR.github.io#qu%C3%A9-contru%C3%AD)
 * [Objetivo del proyecto](https://github.com/KarenGarciaR/KarenGarciaR.github.io#objetivo-del-proyecto)
 * [¡Link al Demo!](https://github.com/KarenGarciaR/KarenGarciaR.github.io#link-al-demo)
+* [Integrantes]
 
 ***
 
@@ -27,4 +28,10 @@ Interfaz grafica en Java
 Interfaz grafica en web HTML
 
 ![Interfaz html](https://github.com/KarenGarciaR/KarenGarciaR.github.io/assets/132194554/1878e1e5-122a-4cb7-bf0c-ece2f2c37bdb)
+
+## Integrantes👯‍♀️
+Este trabjo fue hecho por 
+* Eugenia Fuentes
+* Sheila Camas
+* Karen García
 
