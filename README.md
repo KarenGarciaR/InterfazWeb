@@ -20,7 +20,7 @@ El proyecto está enfocado en la contrucción de la interfaz de una tienda de he
 Aprender a utilizar las etiquetas de HTML, las propiedades de CSS y los comportamientos de JavaScript; así como indentificar componentes base de un sitio web, para analizarlas y replicarlas.
 
 ## 🔗¡Link al Demo!
-Aquí puedes visualizar mi proyecto terminado [Interfaz grafica] 
+Aquí puedes visualizar mi proyecto terminado [Interfaz grafica](https://karengarciar.github.io/InterfazWeb/)
 Interfaz grafica en Java
 ![interfaz java](https://github.com/KarenGarciaR/KarenGarciaR.github.io/assets/132194554/fbd35934-3198-4743-bff3-c8846d284d4c)
 
